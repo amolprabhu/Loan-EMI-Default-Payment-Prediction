@@ -9,10 +9,10 @@ The dataset contains 209593 rows and 37 columns.
 
 The project was completed in 5 major steps:
 1. Data Cleaning
-2. Exploratory Data Analysis (EDA)
-3. Feature Transformation and Data Preparation
-4. Model Building
-5. Model Tuning
+2. Data Transformation
+3. Exploratory Data Analysis (EDA)
+4. Data Preparation
+5. Model Building and Model Tuning
 
 A Random Forest Classifier model was built to predict default EMI payments. The model was evaluated using a recall metric to reduce false negatives. A Recall score of 92% was acheived.
 
