@@ -14,6 +14,8 @@ The project was completed in 5 major steps:
 4. Data Preparation
 5. Model Building and Model Tuning
 
+Engineered features such as customer group, and average amount per loan. 
+
 A Random Forest Classifier model was built to predict default EMI payments. The model was evaluated using a recall metric to reduce false negatives. A Recall score of 92% was acheived.
 
 ## References
