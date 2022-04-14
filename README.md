@@ -1,5 +1,3 @@
-# Loan-EMI-Default-Payment-Prediction
-
 <h1 align="center"> Loan EMI Default Payment Prediction </h1>
 <h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
 
