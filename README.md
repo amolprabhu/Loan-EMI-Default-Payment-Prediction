@@ -8,14 +8,14 @@ The dataset contains 209593 rows and 37 columns.
 
 The project was completed in 5 major steps:
 1. Data Cleaning
-2. Data Transformation
-3. Exploratory Data Analysis (EDA)
-4. Data Preparation
-5. Model Building and Model Tuning
+2. Exploratory Data Analysis (EDA)
+3. Feature Engineering
+4. Data Transformation
+5. Model Building and Tuning
 
-Engineered features such as customer group, and average amount per loan. 
+Engineered features such as customer group, average amount per loan, average recharge amount and total recharge frequency. 
 
-A Random Forest Classifier model was built to predict default EMI payments. The model was evaluated using a recall metric to reduce false negatives. A Recall score of 92% was acheived.
+A Random Forest Classifier model was built and tuned using Randomized Search CV to predict default EMI payments. The model was evaluated using a recall metric to reduce false negatives. A Recall score of 90% was acheived.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
